@@ -1,5 +1,5 @@
 ## Intro
-###### Back to [table of content]()
+###### Back to [table of content](https://github.com/ShumzZ/LearningNotes/blob/master/Git/GitEssentialTraining-LinkedIn.MD#table-of-contents)
 
 - Purpose: version control of a text document. 
   - also called: Version Control System (VCS) / Source Code Management (SCM)
