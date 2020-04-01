@@ -1,6 +1,6 @@
-##### Video Course: [Link](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code)
+##### Video Course on LinkedIn: [Link](https://www.linkedin.com/learning/git-essential-training-the-basics/use-git-version-control-software-to-manage-project-code)
 
- - Table of contents
+##### Table of contents
    - [Exploring the history of version control](https://github.com/ShumzZ/LearningNotes/blob/master/Git/GET-01.MD#intro)
    - Installing Git on Mac, Windows, and Linux
    - Initializing a repository
