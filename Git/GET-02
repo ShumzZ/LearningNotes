@@ -1,0 +1,32 @@
+## Install
+###### Back to [table of content](https://github.com/ShumzZ/LearningNotes/blob/master/Git/GitEssentialTraining-LinkedIn.MD#table-of-contents)
+
+- Git on Mac/ Windows /Linux: 
+  - Installer http://git-scm.com; 
+  - Github Desktop https://github.com
+  - Homebrew https://brew.sh  `brew install git` in Terminal
+  
+- Basic Git configuration
+  - Three levels of configuration
+    - System: 
+      - /etc/gitconfig
+      - Program Files\Git\etc\gitconfig 
+    - User: 
+      - ~/.gitconfig
+      - $HOME\.gitconfig 
+    - Project: 
+      - my_proj/.git/config  
+    - access by: `git config [--system / --global / nothing]` 
+  - Examples: 
+    - git config --global user.name 'name'
+    - git config --global user.email 'someone@nowhere.com'
+    - git config --list
+    - git config --global core.editor 'atom --wait'
+    - git config --gloabal color.ui true
+  - to check config: cat .gitconfig
+  
+
+
+[Back to top](#Install)
+    
+    
