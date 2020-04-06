@@ -23,6 +23,7 @@
   - Alternatively, directly type `git rm file_to_rm.txt` will first remove the file (Unix rm, permanently) and then set staging index same with working copy.
 
 - Move and rename files
+  - `git mv` is more efficient than do things in GUI and use `git add` and `git rm` to sync between working directory and staging index
 
 
 [Back to top](#Make changes to files)
