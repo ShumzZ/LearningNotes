@@ -22,6 +22,7 @@
     - git config --global user.email 'someone@nowhere.com'
     - git config --list
     - git config --global core.editor 'atom --wait'
+      - a side note, to authorize Atom with Github, go to  https://github.atom.io/login as opposed to https://github.com
     - git config --gloabal color.ui true
   - to check config: cat .gitconfig
 
