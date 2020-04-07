@@ -38,10 +38,13 @@
   - HOWTO: use the staging index as a 'buffer', add and commit the changes logically belong to a certain aspect
     - side note, rename commit will wrap minor changes in the content without showing them in `git status`
 
-- Client edits
+- Client edits (assignment)
   - Big Sur Retreat $620 -> $750
   - Cali Calm $250 -> $270
   - change tile of explore pages 'come make a few friends' -> 'make new friends'
+  - HOWTO: find and replace in the project; add only part of the files to staging index so as to make atomic commit; if the file contains multiple aspects of changes, either:
+    - undo the changes and redo them after committing one aspect of changes
+    - or used `git commit -p` (more advanced)
 
 
 
