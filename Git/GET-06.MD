@@ -16,7 +16,8 @@
 - Stage and Commit shortcut
   - `git commit --all` or `git commit -a`: stages and commits all changes to tracked files, and do not include untracked files
 
-- 
+- View a previous commit
+  - 
 
 
 [Back to top](#Git with a real project)
