@@ -23,6 +23,26 @@
   - `git show [SHA-1 value of a commit] --color-words | less -R`
 
 - Compare commits
+  - `git diff [SHA-1 for commit_1]..[SHA-1 for commit_2]`
+  - `git diff HEAD..[SHA-1 for another commit]`
+
+- Multiline commit messages
+  - `git commit [-a]` without the `-m` flag
+  - also `git log --oneline` condensed version of git log
+
+- Make atomic commits (best practice)
+  - small commits
+  - only affect a single aspect
+  - easier to understand, to work with and to find bugs
+  - improve collaboration
+  - HOWTO: use the staging index as a 'buffer', add and commit the changes logically belong to a certain aspect
+    - side note, rename commit will wrap minor changes in the content without showing them in `git status`
+
+- Client edits
+  - Big Sur Retreat $620 -> $750
+  - Cali Calm $250 -> $270
+  - change tile of explore pages 'come make a few friends' -> 'make new friends'
+
 
 
 [Back to top](#Git with a real project)
