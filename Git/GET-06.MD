@@ -17,7 +17,12 @@
   - `git commit --all` or `git commit -a`: stages and commits all changes to tracked files, and do not include untracked files
 
 - View a previous commit
-  - 
+  - e.g. change "you'll" to "you will" in the index.html
+  - `git commit -am 'changes you"ll to you will'`
+  - `git log` to take note of the SHA-1 value of a particular commit
+  - `git show [SHA-1 value of a commit] --color-words | less -R`
+
+- Compare commits
 
 
 [Back to top](#Git with a real project)
