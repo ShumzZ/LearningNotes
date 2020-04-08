@@ -41,4 +41,4 @@
     - points to parent of next commit where writing commits takes place
 
 
-[Back to top](#Git architecture)
+[Back to top](#Git-architecture)
