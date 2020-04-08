@@ -26,4 +26,4 @@
   - `git mv` is more efficient than do things in GUI and use `git add` and `git rm` to sync between working directory and staging index
 
 
-[Back to top](##make-changes-to-files)
+[Back to top](#make-changes-to-files)
