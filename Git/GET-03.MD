@@ -43,4 +43,4 @@
   - `git log --author='Kevin'`
   - `git log --grep='bugfix'` # globally search for regular expression  
 
-[Back to top](#Getting Start)
+[Back to top](#Getting-Start)
