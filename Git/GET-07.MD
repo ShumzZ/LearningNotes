@@ -22,4 +22,4 @@
 - Remove untracked files (all at once)
   - `git clean -n` `-n` dry run, `-f` force run
 
-[Back to top](#Undo changes)
+[Back to top](#Undo-changes)
