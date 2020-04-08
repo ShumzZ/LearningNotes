@@ -60,8 +60,4 @@
   - add a file called `.gitkeep` (by convention) to the empty directory
     - e.g. in Unix, `touch empty-directory/.gitkeep`
 
-
-
-
-
-[Back to top](#Ignore files)
+[Back to top](#Ignore-files)
