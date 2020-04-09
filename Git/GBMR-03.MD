@@ -21,6 +21,6 @@
 
 - Hard reset
   - return to an old state and discard all code changes, useful to permanently undo commits
-  - the commit we left from may not get cleaned up for a while and we can reset back to it (provided we remember the SHA of that commit), but it will eventually be deleted 
+  - the commit we left from may not get cleaned up for a while and we can reset back to it (provided we remember the SHA of that commit), but it will eventually be deleted.
 
 [back to top](#Reset-Branches)
