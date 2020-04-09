@@ -15,6 +15,6 @@
   - note previous commits will be discarded, so be careful about amending commits which have been shared with others
   - but without further commits, we can move HEAD to any given commit and all the commits will still be there, but once new commit is made, all the commits after the reset point will be discarded
 
-  
+- Mixed reset
 
 [back to top](#Reset-Branches)
