@@ -39,4 +39,4 @@
   - `git log --graph --all --online --decorate` # check this out later after you have multiple branches
 
 
-[back to top](#Navigate-the Commit-Tree)
+[back to top](#Navigate-the-Commit-Tree)
