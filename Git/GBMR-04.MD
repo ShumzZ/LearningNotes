@@ -8,6 +8,13 @@
   - Git handles it internally without bothering the user, but it helps to understand the difference
 
 - Merge conflicts
+ - when two branches conflict, Git will prompt and let us choose which version to use (resolve the conflict) and then add the conflict files back to stage and commit
+ - right after the conflict prompts, working directory is changed(`git status` to check), then we have two options:
+  - abort the merge and deal with it a a later time: `git merge --abort`
+  - resolve the conflict manually, either `git diff --color-words <branch1>..<branch2>` or `git show --color-words` to highlight the differences/ conflicts and then resolve the conflict manually
+    - then simply `git commit`
+    - to rollback, `git reset --hard`
+-
 
-  - text edits b
+
 [back to top](#Merge-branch)
