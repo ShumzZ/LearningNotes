@@ -13,8 +13,8 @@
   - abort the merge and deal with it a a later time: `git merge --abort`
   - resolve the conflict manually, either `git diff --color-words <branch1>..<branch2>` or `git show --color-words` to highlight the differences/ conflicts and then resolve the conflict manually
     - then simply `git commit`
-    - to rollback, `git reset --hard`
--
+    - to rollback, `git reset --hard <branch^>` the parent of the other branch, so that
+  - Also, a `git mergetool` could be called and used, see manual for details
 
 
 [back to top](#Merge-branch)
