@@ -59,4 +59,4 @@
   "when you insert a number n between the % and the ~, then only the last n elements of the path will be shown"
 
 
-[back to top](#Creating,-switching-and-comparing-branches)
+[back to top](#Creating-switching-and-comparing-branches)
