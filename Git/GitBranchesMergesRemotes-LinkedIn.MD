@@ -1,7 +1,9 @@
+#### Git: Branches, Merges and Remotes 
+
 ###### Video Course on LinkedIn: [Link](https://www.linkedin.com/learning/git-branches-merges-and-remotes/unlock-powerful-code-management-and-collaboration-tools-in-git)
 
 ##### Table of contents
-- [Navigate the Commit Tree](https://github.com/shumzZ/LearningNotes/blob/master/Git/GBMR-01.MD#Navigate-the-Commit-Tree)
+- [Navigate the Commit Tree](https://github.com/shumzZ/LearningNotes/blob/master/Git/GBMR-01.MD#Navigate-the-`Commit-Tree)
 - [Creating, switching and comparing branches](https://github.com/shumzZ/LearningNotes/blob/master/Git/GBMR-02.MD#Creating-switching-and-comparing-branches)
 - [Resetting branches](https://github.com/shumzZ/LearningNotes/blob/master/Git/GBMR-03.MD#Reset-Branches)
 - [Merging branches](https://github.com/shumzZ/LearningNotes/blob/master/Git/GBMR-04.MD#Merge-branch)
