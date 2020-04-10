@@ -13,8 +13,15 @@
   - abort the merge and deal with it a a later time: `git merge --abort`
   - resolve the conflict manually, either `git diff --color-words <branch1>..<branch2>` or `git show --color-words` to highlight the differences/ conflicts and then resolve the conflict manually
     - then simply `git commit`
-    - to rollback, `git reset --hard <branch^>` the parent of the other branch, so that
+    - to rollback, `git reset --hard HEAD^` the parent of the current branch
   - Also, a `git mergetool` could be called and used, see manual for details
+
+- Strategies to reduce conflict
+  - keep short lines
+  - keep small and focused commits
+  - beware stray edits to whitespace(spaces, tabs, line returns), essentially stick to one style, to eliminate the trivial difference
+  - merge often, and merge tested features regularly and use feature flags (advanced topic)
+  - track changes in master often, merge master changes back to feature branches, called 'tracking'
 
 
 [back to top](#Merge-branch)
