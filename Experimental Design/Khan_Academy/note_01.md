@@ -20,6 +20,8 @@ Even the triple-blind experiment where the people analyzing the data do not know
 
 Block design is one of the experiment design that draws from stratified sampling
 
+Another technique, as alternative or supplement to block design, to deal with lurking variables (unobserved) is to use matched pair design where the same group of experiment units will receive control for a period of time and then receive treatment for another period of time.
+
 #### random sampling VS random assignment
 
 |   | random sampling  | NOT random sampling  |
