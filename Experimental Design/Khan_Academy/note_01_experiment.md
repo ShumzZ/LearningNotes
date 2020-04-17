@@ -18,9 +18,11 @@ In a **comparative experiment**, the group of units that receive the treatment i
 
 Even the **triple-blind** experiment where the people analyzing the data do not know who belongs to treatment or control
 
-**Block design** is one of the experiment design that draws from stratified sampling
+**Randomized block design** is one of the experiment design that draws from stratified sampling, where experiment units are divided into different blocks based on the confounding factors, units within each block are supposed to more similar than unit from other other blocks.
 
-Another technique, as alternative or supplement to block design, to deal with lurking variables (unobserved) is to use **matched pair design** where the same group of experiment units will receive control for a period of time and then receive treatment for another period of time.
+Another technique, as alternative or supplement to block design, to deal with lurking variables (unobserved) is to use **cross-over design** where the same group of experiment units will receive control for a period of time and then receive treatment for another period of time.
+
+A **matched pair design** is a special case "of a randomized block design. It can be used when the experiment has only two treatment conditions; and subjects can be grouped into pairs, based on some blocking variable. Then, within each pair, subjects are randomly assigned to different treatments."[source](https://stattrek.com/statistics/dictionary.aspx?definition=matched%20pairs%20design)
 
 #### random sampling VS random assignment
 
